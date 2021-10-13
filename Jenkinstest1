@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class ConvertMintues2Seconds {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+		int Mintues =5;
+		
+		int Seconds=Mintues*60;
+		System.out.println(Mintues +" Converted into Seconds  :"+Seconds);
+		
+	}
+
+}
